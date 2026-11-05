@@ -1,5 +1,7 @@
 # Project and publication
 
+**Migration notice:** this repository is now a retained prototype. The canonical app is `/Users/v/Documents/ChatGPT/research/tentime.github.io/_prices`, with the root workflow in `tentime/tentime.github.io`. Live routes are `https://tentimes.engineer/memory/` and `/compute/`. Work there for all future updates. Keep this repository's Pages deployment and pricing workflow disabled; do not republish `/tentimes-prices/`. The remaining instructions below describe this older prototype.
+
 This is the canonical public Tentimes prices site. It is a static React/Vite app on **GitHub Pages**, with all pricing data and update logic in this repository. Do not move it to ChatGPT Sites, Cloudflare Workers, or a separate database.
 
 Future website updates must be committed and pushed to the GitHub repository. `.github/workflows/pages.yml` refreshes pricing, runs checks, preserves real observations, and deploys Pages on every push to main, every six hours, or a manual Actions run. Verify the actual Action and live Pages result after a push. Do not add a second scheduler.

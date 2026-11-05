@@ -1,5 +1,7 @@
 # tentimes / prices
 
+**Moved:** the live graphs are [Memory](https://tentimes.engineer/memory/) and [Compute](https://tentimes.engineer/compute/). Their canonical source and single six-hour update/publishing workflow now live under `_prices/` in the root `tentime/tentime.github.io` repository. This repository is a retained prototype; its Pages deployment and pricing workflow are disabled. Make future website changes in the root repository.
+
 A small Memory and Compute price graph. The entire public site, source data and update process live in this repository and deploy to **GitHub Pages**.
 
 - **Consumer memory:** Pricify DDR4 and DDR5 consumer price levels in USD/GB, covering non-ECC desktop and laptop memory.
