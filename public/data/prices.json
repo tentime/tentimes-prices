@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "serverTime": "2026-11-05T21:48:38.404Z",
-  "refreshedAt": "2026-11-05T21:48:38.404Z",
+  "serverTime": "2026-11-05T21:51:24.742Z",
+  "refreshedAt": "2026-11-05T21:51:24.742Z",
   "refreshCadenceHours": 6,
   "mode": "collected",
   "methodology": "Memory: Pricify CC BY 4.0 daily observations released weekly; exact enterprise module/kit references and consumer generation medians remain separate. Compute: published Runpod Secure Cloud and Azure Linux on-demand rates, with licensed GPU Price Tracker archives. Every stored price is an actual quote; graph estimates are display-only.",
@@ -359,8 +359,8 @@
       "inStock": null,
       "status": "fresh",
       "error": null,
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z",
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z",
       "sourcePublishedAt": null,
       "sourceReleaseWeek": null
     },
@@ -697,8 +697,8 @@
       "inStock": null,
       "status": "fresh",
       "error": null,
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z",
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z",
       "sourcePublishedAt": null,
       "sourceReleaseWeek": null
     },
@@ -895,8 +895,8 @@
       "inStock": null,
       "status": "fresh",
       "error": null,
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z",
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z",
       "sourcePublishedAt": "2026-11-03T04:32:43Z",
       "sourceReleaseWeek": "2026-W44"
     },
@@ -1233,8 +1233,8 @@
       "inStock": null,
       "status": "fresh",
       "error": null,
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z",
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z",
       "sourcePublishedAt": "2026-11-03T04:32:43Z",
       "sourceReleaseWeek": "2026-W44"
     },
@@ -1571,8 +1571,8 @@
       "inStock": null,
       "status": "fresh",
       "error": null,
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z",
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z",
       "sourcePublishedAt": "2026-11-03T04:32:43Z",
       "sourceReleaseWeek": "2026-W44"
     },
@@ -4287,14 +4287,24 @@
           "inStock": null,
           "evidenceUrl": "https://api.runpod.io/graphql",
           "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
+        },
+        {
+          "price": 3.99,
+          "currency": "USD",
+          "observedAt": "2026-11-05T21:51:24.742Z",
+          "sourceObservedAt": "2026-11-05T21:51:24.742Z",
+          "precision": "instant",
+          "inStock": null,
+          "evidenceUrl": "https://api.runpod.io/graphql",
+          "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
         }
       ],
       "price": 3.99,
-      "observedAt": "2026-11-05T21:48:38.404Z",
+      "observedAt": "2026-11-05T21:51:24.742Z",
       "error": null,
       "status": "fresh",
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z"
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z"
     },
     {
       "unit": "gpu-hour",
@@ -6919,14 +6929,24 @@
           "inStock": null,
           "evidenceUrl": "https://api.runpod.io/graphql",
           "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
+        },
+        {
+          "price": 5.29,
+          "currency": "USD",
+          "observedAt": "2026-11-05T21:51:24.742Z",
+          "sourceObservedAt": "2026-11-05T21:51:24.742Z",
+          "precision": "instant",
+          "inStock": null,
+          "evidenceUrl": "https://api.runpod.io/graphql",
+          "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
         }
       ],
       "price": 5.29,
-      "observedAt": "2026-11-05T21:48:38.404Z",
+      "observedAt": "2026-11-05T21:51:24.742Z",
       "error": null,
       "status": "fresh",
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z"
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z"
     },
     {
       "unit": "gpu-hour",
@@ -9210,14 +9230,24 @@
           "inStock": null,
           "evidenceUrl": "https://api.runpod.io/graphql",
           "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
+        },
+        {
+          "price": 7.99,
+          "currency": "USD",
+          "observedAt": "2026-11-05T21:51:24.742Z",
+          "sourceObservedAt": "2026-11-05T21:51:24.742Z",
+          "precision": "instant",
+          "inStock": null,
+          "evidenceUrl": "https://api.runpod.io/graphql",
+          "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
         }
       ],
       "price": 7.99,
-      "observedAt": "2026-11-05T21:48:38.404Z",
+      "observedAt": "2026-11-05T21:51:24.742Z",
       "error": null,
       "status": "fresh",
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z"
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z"
     },
     {
       "unit": "gpu-hour",
@@ -11974,14 +12004,24 @@
           "inStock": null,
           "evidenceUrl": "https://api.runpod.io/graphql",
           "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
+        },
+        {
+          "price": 1.79,
+          "currency": "USD",
+          "observedAt": "2026-11-05T21:51:24.742Z",
+          "sourceObservedAt": "2026-11-05T21:51:24.742Z",
+          "precision": "instant",
+          "inStock": null,
+          "evidenceUrl": "https://api.runpod.io/graphql",
+          "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
         }
       ],
       "price": 1.79,
-      "observedAt": "2026-11-05T21:48:38.404Z",
+      "observedAt": "2026-11-05T21:51:24.742Z",
       "error": null,
       "status": "fresh",
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z"
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z"
     },
     {
       "unit": "gpu-hour",
@@ -14210,14 +14250,24 @@
           "inStock": null,
           "evidenceUrl": "https://api.runpod.io/graphql",
           "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
+        },
+        {
+          "price": 0.89,
+          "currency": "USD",
+          "observedAt": "2026-11-05T21:51:24.742Z",
+          "sourceObservedAt": "2026-11-05T21:51:24.742Z",
+          "precision": "instant",
+          "inStock": null,
+          "evidenceUrl": "https://api.runpod.io/graphql",
+          "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
         }
       ],
       "price": 0.89,
-      "observedAt": "2026-11-05T21:48:38.404Z",
+      "observedAt": "2026-11-05T21:51:24.742Z",
       "error": null,
       "status": "fresh",
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z"
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z"
     },
     {
       "unit": "gpu-hour",
@@ -16512,14 +16562,24 @@
           "inStock": null,
           "evidenceUrl": "https://api.runpod.io/graphql",
           "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
+        },
+        {
+          "price": 1.19,
+          "currency": "USD",
+          "observedAt": "2026-11-05T21:51:24.742Z",
+          "sourceObservedAt": "2026-11-05T21:51:24.742Z",
+          "precision": "instant",
+          "inStock": null,
+          "evidenceUrl": "https://api.runpod.io/graphql",
+          "detail": "Runpod Secure Cloud · one GPU · published on-demand catalog rate · capacity unconfirmed · storage, network and tax extra"
         }
       ],
       "price": 1.19,
-      "observedAt": "2026-11-05T21:48:38.404Z",
+      "observedAt": "2026-11-05T21:51:24.742Z",
       "error": null,
       "status": "fresh",
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z"
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z"
     },
     {
       "unit": "hour",
@@ -21225,14 +21285,24 @@
           "inStock": null,
           "evidenceUrl": "https://prices.azure.com/api/retail/prices",
           "detail": "Azure NC4as T4 v3 · East US · Linux on-demand · one T4 VM · rate effective 2021-11-01 · storage, network and tax extra"
+        },
+        {
+          "price": 0.526,
+          "currency": "USD",
+          "observedAt": "2026-11-05T21:51:24.742Z",
+          "sourceObservedAt": "2026-11-05T21:51:24.742Z",
+          "precision": "instant",
+          "inStock": null,
+          "evidenceUrl": "https://prices.azure.com/api/retail/prices",
+          "detail": "Azure NC4as T4 v3 · East US · Linux on-demand · one T4 VM · rate effective 2021-11-01 · storage, network and tax extra"
         }
       ],
       "price": 0.526,
-      "observedAt": "2026-11-05T21:48:38.404Z",
+      "observedAt": "2026-11-05T21:51:24.742Z",
       "error": null,
       "status": "fresh",
-      "lastAttemptAt": "2026-11-05T21:48:38.404Z",
-      "lastSuccessAt": "2026-11-05T21:48:38.404Z"
+      "lastAttemptAt": "2026-11-05T21:51:24.742Z",
+      "lastSuccessAt": "2026-11-05T21:51:24.742Z"
     }
   ]
 }
