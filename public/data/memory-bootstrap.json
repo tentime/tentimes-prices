@@ -1,0 +1,1592 @@
+{
+  "items": [
+    {
+      "category": "ram",
+      "source": "pricify",
+      "currency": "USD",
+      "displayUnit": "GB",
+      "datePrecision": "day",
+      "sourceTimezone": "America/New_York",
+      "historical": true,
+      "activeSeries": true,
+      "archiveOnly": false,
+      "freshnessHours": 240,
+      "sampleCadenceHours": 24,
+      "maxGapHours": 192,
+      "sourceLabel": "Pricify weekly open data",
+      "attributionLabel": "Pricify (pricify.ai)",
+      "attributionUrl": "https://pricify.ai",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "historyLicense": "CC BY 4.0",
+      "licenseSourceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/LICENSE",
+      "historyNote": "Daily observations released weekly; calendar dates are US Eastern. Values are normalized to USD/GB; estimates are separate.",
+      "id": "ram-pricify-ddr5",
+      "title": "DDR5 consumer memory · Pricify daily median",
+      "selectionLabel": "DDR5",
+      "selectorGroup": "Consumer",
+      "url": "https://github.com/pricify-ai/pc-hardware-prices/tree/main/indices",
+      "unit": "GB",
+      "priceDivisor": 1,
+      "capacityGB": null,
+      "indexKey": "ddr5",
+      "indexName": "DDR5 memory",
+      "identity": {
+        "provider": "Pricify",
+        "series": "ddr5",
+        "channel": "US new non-ECC desktop and laptop memory",
+        "basis": "daily median USD/GB"
+      },
+      "sourceNote": "Daily median USD/GB of new, in-stock non-ECC desktop and laptop memory; retailer-owned offers only. Public CC BY 4.0 dataset, released weekly. Product mix varies.",
+      "history": [
+        {
+          "price": 17.0311,
+          "currency": "USD",
+          "observedAt": "2026-10-01T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-01T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.1872,
+          "currency": "USD",
+          "observedAt": "2026-10-02T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-02T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.1872,
+          "currency": "USD",
+          "observedAt": "2026-10-03T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-03T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4994,
+          "currency": "USD",
+          "observedAt": "2026-10-04T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-04T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4997,
+          "currency": "USD",
+          "observedAt": "2026-10-05T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-05T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.1873,
+          "currency": "USD",
+          "observedAt": "2026-10-06T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-06T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.2082,
+          "currency": "USD",
+          "observedAt": "2026-10-07T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-07T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4684,
+          "currency": "USD",
+          "observedAt": "2026-10-08T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-08T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4684,
+          "currency": "USD",
+          "observedAt": "2026-10-09T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-09T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4836,
+          "currency": "USD",
+          "observedAt": "2026-10-10T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-10T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4836,
+          "currency": "USD",
+          "observedAt": "2026-10-11T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-11T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4995,
+          "currency": "USD",
+          "observedAt": "2026-10-12T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-12T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4995,
+          "currency": "USD",
+          "observedAt": "2026-10-13T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-13T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4997,
+          "currency": "USD",
+          "observedAt": "2026-10-14T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-14T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4994,
+          "currency": "USD",
+          "observedAt": "2026-10-15T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-15T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4994,
+          "currency": "USD",
+          "observedAt": "2026-10-16T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-16T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4994,
+          "currency": "USD",
+          "observedAt": "2026-10-17T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-17T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4994,
+          "currency": "USD",
+          "observedAt": "2026-10-18T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-18T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.4997,
+          "currency": "USD",
+          "observedAt": "2026-10-19T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-19T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.8122,
+          "currency": "USD",
+          "observedAt": "2026-10-20T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-20T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.8122,
+          "currency": "USD",
+          "observedAt": "2026-10-21T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-21T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.7809,
+          "currency": "USD",
+          "observedAt": "2026-10-22T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-22T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.7497,
+          "currency": "USD",
+          "observedAt": "2026-10-23T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-23T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.7497,
+          "currency": "USD",
+          "observedAt": "2026-10-24T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-24T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.7497,
+          "currency": "USD",
+          "observedAt": "2026-10-25T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-25T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.8122,
+          "currency": "USD",
+          "observedAt": "2026-10-26T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-26T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.8122,
+          "currency": "USD",
+          "observedAt": "2026-10-27T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-27T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.8122,
+          "currency": "USD",
+          "observedAt": "2026-10-28T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-28T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 18.0622,
+          "currency": "USD",
+          "observedAt": "2026-10-29T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-29T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.9686,
+          "currency": "USD",
+          "observedAt": "2026-10-30T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-30T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 17.8122,
+          "currency": "USD",
+          "observedAt": "2026-10-31T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-31T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 18.0622,
+          "currency": "USD",
+          "observedAt": "2026-11-01T00:00:00.000Z",
+          "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        }
+      ],
+      "price": 18.0622,
+      "observedAt": "2026-11-01T00:00:00.000Z",
+      "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+      "inStock": null,
+      "status": "fresh",
+      "error": null,
+      "lastAttemptAt": "2026-11-05T21:47:25.378Z",
+      "lastSuccessAt": "2026-11-05T21:47:25.378Z",
+      "sourcePublishedAt": null,
+      "sourceReleaseWeek": null
+    },
+    {
+      "category": "ram",
+      "source": "pricify",
+      "currency": "USD",
+      "displayUnit": "GB",
+      "datePrecision": "day",
+      "sourceTimezone": "America/New_York",
+      "historical": true,
+      "activeSeries": true,
+      "archiveOnly": false,
+      "freshnessHours": 240,
+      "sampleCadenceHours": 24,
+      "maxGapHours": 192,
+      "sourceLabel": "Pricify weekly open data",
+      "attributionLabel": "Pricify (pricify.ai)",
+      "attributionUrl": "https://pricify.ai",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "historyLicense": "CC BY 4.0",
+      "licenseSourceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/LICENSE",
+      "historyNote": "Daily observations released weekly; calendar dates are US Eastern. Values are normalized to USD/GB; estimates are separate.",
+      "id": "ram-pricify-ddr4",
+      "title": "DDR4 consumer memory · Pricify daily median",
+      "selectionLabel": "DDR4",
+      "selectorGroup": "Consumer",
+      "url": "https://github.com/pricify-ai/pc-hardware-prices/tree/main/indices",
+      "unit": "GB",
+      "priceDivisor": 1,
+      "capacityGB": null,
+      "indexKey": "ddr4",
+      "indexName": "DDR4 memory",
+      "identity": {
+        "provider": "Pricify",
+        "series": "ddr4",
+        "channel": "US new non-ECC desktop and laptop memory",
+        "basis": "daily median USD/GB"
+      },
+      "sourceNote": "Daily median USD/GB of new, in-stock non-ECC desktop and laptop memory; retailer-owned offers only. Public CC BY 4.0 dataset, released weekly. Product mix varies.",
+      "history": [
+        {
+          "price": 9.7488,
+          "currency": "USD",
+          "observedAt": "2026-10-01T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-01T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7488,
+          "currency": "USD",
+          "observedAt": "2026-10-02T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-02T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7488,
+          "currency": "USD",
+          "observedAt": "2026-10-03T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-03T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8738,
+          "currency": "USD",
+          "observedAt": "2026-10-04T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-04T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-05T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-05T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7488,
+          "currency": "USD",
+          "observedAt": "2026-10-06T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-06T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7494,
+          "currency": "USD",
+          "observedAt": "2026-10-07T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-07T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7809,
+          "currency": "USD",
+          "observedAt": "2026-10-08T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-08T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7809,
+          "currency": "USD",
+          "observedAt": "2026-10-09T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-09T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7809,
+          "currency": "USD",
+          "observedAt": "2026-10-10T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-10T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8277,
+          "currency": "USD",
+          "observedAt": "2026-10-11T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-11T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7652,
+          "currency": "USD",
+          "observedAt": "2026-10-12T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-12T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8119,
+          "currency": "USD",
+          "observedAt": "2026-10-13T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-13T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7964,
+          "currency": "USD",
+          "observedAt": "2026-10-14T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-14T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7964,
+          "currency": "USD",
+          "observedAt": "2026-10-15T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-15T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7652,
+          "currency": "USD",
+          "observedAt": "2026-10-16T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-16T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8277,
+          "currency": "USD",
+          "observedAt": "2026-10-17T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-17T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8436,
+          "currency": "USD",
+          "observedAt": "2026-10-18T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-18T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.7652,
+          "currency": "USD",
+          "observedAt": "2026-10-19T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-19T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-20T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-20T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-21T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-21T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-22T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-22T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-23T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-23T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8745,
+          "currency": "USD",
+          "observedAt": "2026-10-24T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-24T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8747,
+          "currency": "USD",
+          "observedAt": "2026-10-25T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-25T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-26T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-26T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-27T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-27T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-28T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-28T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8744,
+          "currency": "USD",
+          "observedAt": "2026-10-29T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-29T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8747,
+          "currency": "USD",
+          "observedAt": "2026-10-30T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-30T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8747,
+          "currency": "USD",
+          "observedAt": "2026-10-31T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-31T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        },
+        {
+          "price": 9.8747,
+          "currency": "USD",
+          "observedAt": "2026-11-01T00:00:00.000Z",
+          "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv"
+        }
+      ],
+      "price": 9.8747,
+      "observedAt": "2026-11-01T00:00:00.000Z",
+      "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+      "inStock": null,
+      "status": "fresh",
+      "error": null,
+      "lastAttemptAt": "2026-11-05T21:47:25.378Z",
+      "lastSuccessAt": "2026-11-05T21:47:25.378Z",
+      "sourcePublishedAt": null,
+      "sourceReleaseWeek": null
+    },
+    {
+      "category": "ram",
+      "source": "pricify",
+      "currency": "USD",
+      "displayUnit": "GB",
+      "datePrecision": "day",
+      "sourceTimezone": "America/New_York",
+      "historical": true,
+      "activeSeries": true,
+      "archiveOnly": false,
+      "freshnessHours": 240,
+      "sampleCadenceHours": 24,
+      "maxGapHours": 192,
+      "sourceLabel": "Pricify weekly open data",
+      "attributionLabel": "Pricify (pricify.ai)",
+      "attributionUrl": "https://pricify.ai",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "historyLicense": "CC BY 4.0",
+      "licenseSourceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/LICENSE",
+      "historyNote": "Daily observations released weekly; calendar dates are US Eastern. Values are normalized to USD/GB; estimates are separate.",
+      "id": "ram-pricify-gskill-64gb",
+      "productId": 11133,
+      "productName": "G.SKILL G5 64GB DDR5-5600 CL46 ECC RDIMM",
+      "mpn": "F5-5600R4645A64GX1-G5",
+      "upc": "848354051039",
+      "capacityGB": 64,
+      "selectionLabel": "DDR5-5600 · 64 GB module",
+      "url": "https://rams.live/memory/gskill-g5-64gb-ddr5-5600-cl46-rdimm",
+      "moduleCount": 1,
+      "moduleCapacityGB": 64,
+      "title": "G.SKILL G5 64GB DDR5-5600 CL46 ECC RDIMM",
+      "selectorGroup": "Enterprise",
+      "unit": "each",
+      "priceDivisor": 64,
+      "identity": {
+        "provider": "Pricify",
+        "productId": 11133,
+        "mpn": "F5-5600R4645A64GX1-G5",
+        "upc": "848354051039",
+        "capacityGB": 64,
+        "moduleCount": 1,
+        "moduleCapacityGB": 64,
+        "channel": "US new retailer-owned in-stock daily lowest price"
+      },
+      "sourceNote": "Exact ECC RDIMM single module; daily lowest new in-stock retailer-owned price, which may require in-store pickup. Public CC BY 4.0 release updated weekly. Raw module USD price divided by 64 GB; no broad server-market average is implied.",
+      "history": [
+        {
+          "price": 2299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-19T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-19T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-20T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-20T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-21T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-21T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-22T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-22T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-23T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-23T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-24T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-24T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-25T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-25T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-26T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-26T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-27T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-27T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-28T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-28T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-29T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-29T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-30T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-30T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-10-31T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-31T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 2499.99,
+          "currency": "USD",
+          "observedAt": "2026-11-01T00:00:00.000Z",
+          "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        }
+      ],
+      "price": 2499.99,
+      "observedAt": "2026-11-01T00:00:00.000Z",
+      "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+      "inStock": null,
+      "status": "fresh",
+      "error": null,
+      "lastAttemptAt": "2026-11-05T21:47:25.378Z",
+      "lastSuccessAt": "2026-11-05T21:47:25.378Z",
+      "sourcePublishedAt": "2026-11-03T04:32:43Z",
+      "sourceReleaseWeek": "2026-W44"
+    },
+    {
+      "category": "ram",
+      "source": "pricify",
+      "currency": "USD",
+      "displayUnit": "GB",
+      "datePrecision": "day",
+      "sourceTimezone": "America/New_York",
+      "historical": true,
+      "activeSeries": true,
+      "archiveOnly": false,
+      "freshnessHours": 240,
+      "sampleCadenceHours": 24,
+      "maxGapHours": 192,
+      "sourceLabel": "Pricify weekly open data",
+      "attributionLabel": "Pricify (pricify.ai)",
+      "attributionUrl": "https://pricify.ai",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "historyLicense": "CC BY 4.0",
+      "licenseSourceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/LICENSE",
+      "historyNote": "Daily observations released weekly; calendar dates are US Eastern. Values are normalized to USD/GB; estimates are separate.",
+      "id": "ram-pricify-kingston-128gb-kit",
+      "productId": 2554,
+      "productName": "Kingston Fury Renegade Pro 128GB (4x32GB) DDR5-5600 CL28 ECC RDIMM",
+      "mpn": "KF556R28RBE2K4-128",
+      "upc": "740617342161",
+      "capacityGB": 128,
+      "selectionLabel": "DDR5-5600 · 128 GB kit (4×32)",
+      "url": "https://rams.live/memory/kingston-fury-renegade-pro-128gb-4x32gb-ddr5-5600-cl28-ecc-rdimm",
+      "moduleCount": 4,
+      "moduleCapacityGB": 32,
+      "title": "Kingston Fury Renegade Pro 128GB (4x32GB) DDR5-5600 CL28 ECC RDIMM",
+      "selectorGroup": "Enterprise",
+      "unit": "each",
+      "priceDivisor": 128,
+      "identity": {
+        "provider": "Pricify",
+        "productId": 2554,
+        "mpn": "KF556R28RBE2K4-128",
+        "upc": "740617342161",
+        "capacityGB": 128,
+        "moduleCount": 4,
+        "moduleCapacityGB": 32,
+        "channel": "US new retailer-owned in-stock daily lowest price"
+      },
+      "sourceNote": "Exact ECC RDIMM workstation kit, 4×32 GB; daily lowest new in-stock retailer-owned price, which may require in-store pickup. Public CC BY 4.0 release updated weekly. Raw kit USD price divided by 128 GB; no broad server-market average is implied.",
+      "history": [
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-05T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-05T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-06T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-06T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-07T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-07T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-08T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-08T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-09T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-09T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-10T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-10T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-11T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-11T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-12T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-12T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-13T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-13T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-14T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-14T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-15T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-15T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-16T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-16T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-17T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-17T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-18T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-18T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4299.99,
+          "currency": "USD",
+          "observedAt": "2026-10-19T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-19T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-20T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-20T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-21T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-21T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-22T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-22T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-23T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-23T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-24T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-24T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-25T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-25T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-26T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-26T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-27T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-27T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-28T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-28T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-29T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-29T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-30T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-30T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-10-31T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-31T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4599.99,
+          "currency": "USD",
+          "observedAt": "2026-11-01T00:00:00.000Z",
+          "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        }
+      ],
+      "price": 4599.99,
+      "observedAt": "2026-11-01T00:00:00.000Z",
+      "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+      "inStock": null,
+      "status": "fresh",
+      "error": null,
+      "lastAttemptAt": "2026-11-05T21:47:25.378Z",
+      "lastSuccessAt": "2026-11-05T21:47:25.378Z",
+      "sourcePublishedAt": "2026-11-03T04:32:43Z",
+      "sourceReleaseWeek": "2026-W44"
+    },
+    {
+      "category": "ram",
+      "source": "pricify",
+      "currency": "USD",
+      "displayUnit": "GB",
+      "datePrecision": "day",
+      "sourceTimezone": "America/New_York",
+      "historical": true,
+      "activeSeries": true,
+      "archiveOnly": false,
+      "freshnessHours": 240,
+      "sampleCadenceHours": 24,
+      "maxGapHours": 192,
+      "sourceLabel": "Pricify weekly open data",
+      "attributionLabel": "Pricify (pricify.ai)",
+      "attributionUrl": "https://pricify.ai",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "historyLicense": "CC BY 4.0",
+      "licenseSourceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/LICENSE",
+      "historyNote": "Daily observations released weekly; calendar dates are US Eastern. Values are normalized to USD/GB; estimates are separate.",
+      "id": "ram-pricify-teamgroup-128gb-kit",
+      "productId": 2425,
+      "productName": "TEAMGROUP T-Create Master 128GB (4x32GB) DDR5-6000 CL30 ECC RDIMM",
+      "mpn": "CTCMD5128G6000HC30FQC01",
+      "upc": "4711430801698",
+      "capacityGB": 128,
+      "selectionLabel": "DDR5-6000 · 128 GB kit (4×32)",
+      "url": "https://rams.live/memory/teamgroup-t-create-master-128gb-4x32gb-ddr5-6000-cl30-ecc-rdimm",
+      "moduleCount": 4,
+      "moduleCapacityGB": 32,
+      "title": "TEAMGROUP T-Create Master 128GB (4x32GB) DDR5-6000 CL30 ECC RDIMM",
+      "selectorGroup": "Enterprise",
+      "unit": "each",
+      "priceDivisor": 128,
+      "identity": {
+        "provider": "Pricify",
+        "productId": 2425,
+        "mpn": "CTCMD5128G6000HC30FQC01",
+        "upc": "4711430801698",
+        "capacityGB": 128,
+        "moduleCount": 4,
+        "moduleCapacityGB": 32,
+        "channel": "US new retailer-owned in-stock daily lowest price"
+      },
+      "sourceNote": "Exact ECC RDIMM workstation kit, 4×32 GB; daily lowest new in-stock retailer-owned price, which may require in-store pickup. Public CC BY 4.0 release updated weekly. Raw kit USD price divided by 128 GB; no broad server-market average is implied.",
+      "history": [
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-05T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-05T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-06T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-06T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-07T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-07T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-08T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-08T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-09T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-09T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-10T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-10T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-11T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-11T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-12T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-12T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-13T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-13T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-14T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-14T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-15T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-15T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-16T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-16T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-17T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-17T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-18T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-18T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-19T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-19T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-20T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-20T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 3999.99,
+          "currency": "USD",
+          "observedAt": "2026-10-21T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-21T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-22T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-22T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-23T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-23T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-24T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-24T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-25T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-25T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-26T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-26T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-27T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-27T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-28T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-28T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-29T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-29T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-30T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-30T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-10-31T00:00:00.000Z",
+          "sourceObservedAt": "2026-10-31T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        },
+        {
+          "price": 4699.99,
+          "currency": "USD",
+          "observedAt": "2026-11-01T00:00:00.000Z",
+          "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+          "precision": "day",
+          "inStock": null,
+          "evidenceUrl": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+          "venue": "Micro Center (in store)"
+        }
+      ],
+      "price": 4699.99,
+      "observedAt": "2026-11-01T00:00:00.000Z",
+      "sourceObservedAt": "2026-11-01T00:00:00.000Z",
+      "inStock": null,
+      "status": "fresh",
+      "error": null,
+      "lastAttemptAt": "2026-11-05T21:47:25.378Z",
+      "lastSuccessAt": "2026-11-05T21:47:25.378Z",
+      "sourcePublishedAt": "2026-11-03T04:32:43Z",
+      "sourceReleaseWeek": "2026-W44"
+    }
+  ],
+  "provenance": {
+    "provider": "Pricify (pricify.ai)",
+    "generatedAt": "2026-11-05T21:47:25.378Z",
+    "revision": "ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseSource": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/LICENSE",
+    "attributionUrl": "https://pricify.ai",
+    "sourceTimezone": "America/New_York",
+    "changes": "Selected five source series; prices retained in source units, normalized to USD/GB only when displayed. No estimated or synthetic prices.",
+    "files": [
+      {
+        "url": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/indices/pricify-indices.csv",
+        "sha256": "78c0f887d26b086a73e5161b1a8ed1e97d89f190a2de78d63e098ee865ebdde1",
+        "bytes": 13174
+      },
+      {
+        "url": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W41/json/rams.live.json",
+        "sha256": "38c6673fbcfa6dad01e8ebf787f95b5a43c1a7766e40debc09b24b2128b37138",
+        "bytes": 179586
+      },
+      {
+        "url": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W42/json/rams.live.json",
+        "sha256": "bad023ab08c051fec03de6a3fc1da1f717d44a0cfc3c16e9d638069aa29d280c",
+        "bytes": 179212
+      },
+      {
+        "url": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W43/json/rams.live.json",
+        "sha256": "36e07c4758aa4113310caf732d33875c17f171d607f76406b4ceb773eb86a8c1",
+        "bytes": 179010
+      },
+      {
+        "url": "https://raw.githubusercontent.com/pricify-ai/pc-hardware-prices/ed6f528f5b28fd778c2401b1c98d4feb8d4b9a06/data/2026/W44/json/rams.live.json",
+        "sha256": "9f939f3bad10ee0d9cbedfec3b16e8d8d0292bd183992b40de191e1bf454c809",
+        "bytes": 180587
+      }
+    ]
+  }
+}
